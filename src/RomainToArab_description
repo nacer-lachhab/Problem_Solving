@@ -1,0 +1,3 @@
+* les lettres doivent etre du plus grand au plus petit/ de gauche a droite
+* seuls I, X, C et M peut etre repetes mais jamais un symbole ne doit se repeter plus que 3 fois
+* quant le chiffre guache est plus petit de celui de son cote a droite on fait la soustraction sinon l' addition
